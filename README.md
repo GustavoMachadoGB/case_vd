@@ -1,4 +1,4 @@
-/case_especialista_dados/
+# /case_especialista_dados/
 │
 ├── 01_ingestao/
 │   ├── case_2_carga_de_dados_ao_gcp.py
